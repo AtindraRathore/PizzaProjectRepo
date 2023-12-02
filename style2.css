@@ -52,7 +52,7 @@ nav>ul>li>p{
  }
  #line{
     position:absolute;
-   top: 21vh;
+   top: 23vh;
    left:3vw;
  }
  #image-outer>#unique{
@@ -61,8 +61,8 @@ nav>ul>li>p{
   color:white;
   position: absolute;
   flex-wrap: wrap;
-  top: 24vh;
-  left: 3vw;
+  top: 26vh;
+  left: 5vw;
   line-height: 20px;
   letter-spacing: 9%;
   text-align: left;
